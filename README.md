@@ -1,4 +1,4 @@
-# Ex Fun Game (Prototype build)
+# A game about shooting
 My submission to "Finally Finish Something 2022" game jam.\
 Thank you for checking out this page. \
 Follow for updates.
